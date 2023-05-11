@@ -1,5 +1,5 @@
 .container{
-  background-image: url("https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2997868894,3344165718&fm=26&gp=0.jpg");
+  background-image: url('../image/background.jpg');
   background-attachment:fixed;
   background-size:100%;
   background-repeat:no-repeat;
